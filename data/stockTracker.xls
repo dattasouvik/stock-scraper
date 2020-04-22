@@ -1,0 +1,266 @@
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Price	Target Price(Rs)	Timestamp
+CESC Ltd.	607.45	573.65	612.00	(1.61%)	Apr 21, 15:58	500	1	1587497437444
+Eicher Motors Ltd.	13495.00	13450.00	13985.00	(-5.06%)	Apr 21, 15:59	500	1	1587497466932
+Bharat Petroleum Corporation Ltd.	355.25	353.10	369.45	(-3.57%)	Apr 21, 15:59	500	0	1587497484149
+Cadila Healthcare Ltd.	344.20	326.35	349.90	(3.30%)	Apr 21, 15:59	500	0	1587497494689
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Price	Target Price(Rs)	Timestamp
+Bharat Petroleum Corporation Ltd.	355.25	353.10	369.45	(-3.57%)	Apr 21, 15:59	500	0	1587498324012
+Cadila Healthcare Ltd.	344.20	326.35	349.90	(3.30%)	Apr 21, 15:59	500	0	1587498334276
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Price	Target Price(Rs)	Timestamp
+Bharat Petroleum Corporation Ltd.	355.25	353.10	369.45	(-3.57%)	Apr 21, 15:59	500	0	1587499218833
+Cadila Healthcare Ltd.	344.20	326.35	349.90	(3.30%)	Apr 21, 15:59	500	0	1587499232280
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Price	Target Price(Rs)	Timestamp
+Bharat Petroleum Corporation Ltd.	355.25	353.10	369.45	(-3.57%)	Apr 21, 15:59	500	0	1587500122459
+Cadila Healthcare Ltd.	344.20	326.35	349.90	(3.30%)	Apr 21, 15:59	500	0	1587500136833
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	602.35	585.25	613.95	(-0.84%)	Apr 22, 12:30	500	1	1587538838318
+Eicher Motors Ltd.	13871.95	13200.00	13889.85	(2.79%)	Apr 22, 12:30	500	1	1587538849833
+Bharat Petroleum Corporation Ltd.	349.70	337.15	360.00	(-1.56%)	Apr 22, 12:30	500	0	1587538860681
+Cadila Healthcare Ltd.	332.20	330.60	340.90	(-3.49%)	Apr 22, 12:31	500	0	1587538872017
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	350.80	337.15	360.00	(-1.25%)	Apr 22, 12:45	500	0	1587539723609
+Cadila Healthcare Ltd.	331.90	330.60	340.90	(-3.57%)	Apr 22, 12:45	500	0	1587539740175
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	604.20	585.25	613.95	(-0.54%)	Apr 22, 13:04	500	1	1587540860746
+Eicher Motors Ltd.	13910.25	13200.00	13944.95	(3.08%)	Apr 22, 13:04	500	1	1587540871811
+Bharat Petroleum Corporation Ltd.	351.45	337.15	360.00	(-1.07%)	Apr 22, 13:04	500	0	1587540882921
+Cadila Healthcare Ltd.	329.25	327.40	340.90	(-4.34%)	Apr 22, 13:04	500	0	1587540891855
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	604.00	585.25	613.95	(-0.57%)	Apr 22, 13:10	500	1	1587541237545
+Eicher Motors Ltd.	13882.95	13200.00	13944.95	(2.87%)	Apr 22, 13:10	500	1	1587541249083
+Bharat Petroleum Corporation Ltd.	349.90	337.15	360.00	(-1.51%)	Apr 22, 13:10	500	0	1587541258955
+Cadila Healthcare Ltd.	329.75	327.40	340.90	(-4.20%)	Apr 22, 13:11	500	0	1587541276968
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	603.40	585.25	613.95	(-0.67%)	Apr 22, 13:11	500	1	1587541279294
+Eicher Motors Ltd.	13873.35	13200.00	13944.95	(2.80%)	Apr 22, 13:11	500	1	1587541290650
+Bharat Petroleum Corporation Ltd.	349.75	337.15	360.00	(-1.55%)	Apr 22, 13:11	500	0	1587541300283
+Cadila Healthcare Ltd.	329.55	327.40	340.90	(-4.26%)	Apr 22, 13:11	500	0	1587541310836
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	603.60	585.25	613.95	(-0.63%)	Apr 22, 13:12	500	1	1587541335294
+Eicher Motors Ltd.	13876.15	13200.00	13944.95	(2.82%)	Apr 22, 13:12	500	1	1587541346359
+Bharat Petroleum Corporation Ltd.	349.60	337.15	360.00	(-1.59%)	Apr 22, 13:12	500	0	1587541355319
+Cadila Healthcare Ltd.	329.90	327.40	340.90	(-4.15%)	Apr 22, 13:12	500	0	1587541363736
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	603.75	585.25	613.95	(-0.61%)	Apr 22, 13:16	500	1	1587541572401
+Eicher Motors Ltd.	13862.00	13200.00	13944.95	(2.72%)	Apr 22, 13:16	500	1	1587541581747
+Bharat Petroleum Corporation Ltd.	348.65	337.15	360.00	(-1.86%)	Apr 22, 13:16	500	0	1587541590646
+Cadila Healthcare Ltd.	328.70	327.40	340.90	(-4.50%)	Apr 22, 13:16	500	0	1587541600553
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	602.80	585.25	613.95	(-0.77%)	Apr 22, 13:18	500	1	1587541693749
+Eicher Motors Ltd.	13806.90	13200.00	13944.95	(2.31%)	Apr 22, 13:18	500	1	1587541702571
+Bharat Petroleum Corporation Ltd.	347.90	337.15	360.00	(-2.07%)	Apr 22, 13:18	500	0	1587541711940
+Cadila Healthcare Ltd.	328.45	327.40	340.90	(-4.58%)	Apr 22, 13:18	500	0	1587541721054
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	602.60	585.25	613.95	(-0.80%)	Apr 22, 13:20	500	1	1587541812454
+Eicher Motors Ltd.	13801.30	13200.00	13944.95	(2.27%)	Apr 22, 13:20	500	1	1587541823017
+Bharat Petroleum Corporation Ltd.	349.25	337.15	360.00	(-1.69%)	Apr 22, 13:20	500	0	1587541831728
+Cadila Healthcare Ltd.	328.60	327.40	340.90	(-4.53%)	Apr 22, 13:20	500	0	1587541840560
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	603.30	585.25	613.95	(-0.68%)	Apr 22, 13:22	500	1	1587541934056
+Eicher Motors Ltd.	13826.95	13200.00	13944.95	(2.46%)	Apr 22, 13:22	500	1	1587541943629
+Bharat Petroleum Corporation Ltd.	349.80	337.15	360.00	(-1.53%)	Apr 22, 13:22	500	0	1587541952801
+Cadila Healthcare Ltd.	328.55	327.40	340.90	(-4.55%)	Apr 22, 13:22	500	0	1587541958602
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	603.25	585.25	613.95	(-0.69%)	Apr 22, 13:23	500	1	1587541994823
+Eicher Motors Ltd.	13811.00	13200.00	13944.95	(2.34%)	Apr 22, 13:23	500	1	1587542004843
+Bharat Petroleum Corporation Ltd.	349.85	337.15	360.00	(-1.52%)	Apr 22, 13:23	500	0	1587542013392
+Cadila Healthcare Ltd.	328.70	327.40	340.90	(-4.50%)	Apr 22, 13:23	500	0	1587542020284
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	603.50	585.25	613.95	(-0.65%)	Apr 22, 13:25	500	1	1587542113610
+Eicher Motors Ltd.	13803.40	13200.00	13944.95	(2.29%)	Apr 22, 13:25	500	1	1587542120445
+Bharat Petroleum Corporation Ltd.	350.20	337.15	360.00	(-1.42%)	Apr 22, 13:25	500	0	1587542126629
+Cadila Healthcare Ltd.	329.00	327.40	340.90	(-4.42%)	Apr 22, 13:25	500	0	1587542131331
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	603.50	585.25	613.95	(-0.65%)	Apr 22, 13:25	500	1	1587542172645
+Eicher Motors Ltd.	13767.00	13200.00	13944.95	(2.02%)	Apr 22, 13:26	500	1	1587542181460
+Bharat Petroleum Corporation Ltd.	349.65	337.15	360.00	(-1.58%)	Apr 22, 13:26	500	0	1587542189206
+Cadila Healthcare Ltd.	329.75	327.40	340.90	(-4.20%)	Apr 22, 13:26	500	0	1587542196797
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	603.50	585.25	613.95	(-0.65%)	Apr 22, 13:27	500	1	1587542234287
+Eicher Motors Ltd.	13772.70	13200.00	13944.95	(2.06%)	Apr 22, 13:27	500	1	1587542242711
+Bharat Petroleum Corporation Ltd.	350.10	337.15	360.00	(-1.45%)	Apr 22, 13:27	500	0	1587542251240
+Cadila Healthcare Ltd.	329.75	327.40	340.90	(-4.20%)	Apr 22, 13:27	500	0	1587542259162
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	602.55	585.25	613.95	(-0.81%)	Apr 22, 13:28	500	1	1587542295807
+Eicher Motors Ltd.	13772.05	13200.00	13944.95	(2.05%)	Apr 22, 13:28	500	1	1587542301616
+Bharat Petroleum Corporation Ltd.	350.05	337.15	360.00	(-1.46%)	Apr 22, 13:28	500	0	1587542307848
+Cadila Healthcare Ltd.	329.60	327.40	340.90	(-4.24%)	Apr 22, 13:28	500	0	1587542313660
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	603.00	585.25	613.95	(-0.73%)	Apr 22, 13:29	500	1	1587542355265
+Eicher Motors Ltd.	13766.30	13200.00	13944.95	(2.01%)	Apr 22, 13:29	500	1	1587542365856
+Bharat Petroleum Corporation Ltd.	349.90	337.15	360.00	(-1.51%)	Apr 22, 13:29	500	0	1587542376100
+Cadila Healthcare Ltd.	329.30	327.40	340.90	(-4.33%)	Apr 22, 13:29	500	0	1587542385898
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	602.50	585.25	613.95	(-0.81%)	Apr 22, 13:30	500	1	1587542415331
+Eicher Motors Ltd.	13695.70	13200.00	13944.95	(1.49%)	Apr 22, 13:30	500	1	1587542424914
+Bharat Petroleum Corporation Ltd.	350.15	337.15	360.00	(-1.44%)	Apr 22, 13:30	500	0	1587542431319
+Cadila Healthcare Ltd.	329.00	327.40	340.90	(-4.42%)	Apr 22, 13:30	500	0	1587542440084
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	602.45	585.25	613.95	(-0.82%)	Apr 22, 13:31	500	1	1587542473747
+Eicher Motors Ltd.	13714.95	13200.00	13944.95	(1.63%)	Apr 22, 13:31	500	1	1587542483333
+Bharat Petroleum Corporation Ltd.	350.50	337.15	360.00	(-1.34%)	Apr 22, 13:31	500	0	1587542492447
+Cadila Healthcare Ltd.	328.95	327.40	340.90	(-4.43%)	Apr 22, 13:31	500	0	1587542500340
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	604.20	585.25	613.95	(-0.54%)	Apr 22, 13:37	500	1	1587542834110
+Eicher Motors Ltd.	13700.60	13200.00	13944.95	(1.52%)	Apr 22, 13:37	500	1	1587542840422
+Bharat Petroleum Corporation Ltd.	350.10	337.15	360.00	(-1.45%)	Apr 22, 13:37	500	0	1587542845613
+Cadila Healthcare Ltd.	329.25	327.40	340.90	(-4.34%)	Apr 22, 13:37	500	0	1587542851103
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	603.75	585.25	613.95	(-0.61%)	Apr 22, 13:38	500	1	1587542892268
+Eicher Motors Ltd.	13693.25	13200.00	13944.95	(1.47%)	Apr 22, 13:38	500	1	1587542900785
+Bharat Petroleum Corporation Ltd.	349.40	337.15	360.00	(-1.65%)	Apr 22, 13:38	500	0	1587542908656
+Cadila Healthcare Ltd.	328.80	327.40	340.90	(-4.47%)	Apr 22, 13:38	500	0	1587542914078
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	603.55	585.25	613.95	(-0.64%)	Apr 22, 13:41	500	1	1587543070939
+Eicher Motors Ltd.	13710.00	13200.00	13944.95	(1.59%)	Apr 22, 13:41	500	1	1587543079401
+Bharat Petroleum Corporation Ltd.	349.35	337.15	360.00	(-1.66%)	Apr 22, 13:41	500	0	1587543088063
+Cadila Healthcare Ltd.	328.80	327.40	340.90	(-4.47%)	Apr 22, 13:41	500	0	1587543095422
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	349.90	337.15	360.00	(-1.51%)	Apr 22, 13:42	500	0	1587543132859
+Cadila Healthcare Ltd.	329.25	327.40	340.90	(-4.34%)	Apr 22, 13:42	500	0	1587543141224
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	350.05	337.15	360.00	(-1.46%)	Apr 22, 13:43	500	0	1587543191196
+Cadila Healthcare Ltd.	329.25	327.40	340.90	(-4.34%)	Apr 22, 13:43	500	0	1587543199265
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	350.35	337.15	360.00	(-1.38%)	Apr 22, 13:45	500	0	1587543311845
+Cadila Healthcare Ltd.	329.45	327.40	340.90	(-4.29%)	Apr 22, 13:45	500	0	1587543319925
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	350.25	337.15	360.00	(-1.41%)	Apr 22, 13:46	500	0	1587543373459
+Cadila Healthcare Ltd.	329.40	327.40	340.90	(-4.30%)	Apr 22, 13:46	500	0	1587543382510
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	350.20	337.15	360.00	(-1.42%)	Apr 22, 13:47	500	0	1587543432427
+Cadila Healthcare Ltd.	329.55	327.40	340.90	(-4.26%)	Apr 22, 13:47	500	0	1587543441040
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	350.35	337.15	360.00	(-1.38%)	Apr 22, 13:49	500	0	1587543610818
+Cadila Healthcare Ltd.	331.45	327.40	340.90	(-3.70%)	Apr 22, 13:50	500	0	1587543619555
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	604.25	585.25	613.95	(-0.53%)	Apr 22, 13:52	500	1	1587543732328
+Eicher Motors Ltd.	13695.50	13200.00	13944.95	(1.49%)	Apr 22, 13:52	500	1	1587543742073
+Bharat Petroleum Corporation Ltd.	350.20	337.15	360.00	(-1.42%)	Apr 22, 13:52	500	0	1587543750349
+Cadila Healthcare Ltd.	331.30	327.40	340.90	(-3.75%)	Apr 22, 13:52	500	0	1587543756542
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	350.35	337.15	360.00	(-1.38%)	Apr 22, 13:53	500	0	1587543795093
+Cadila Healthcare Ltd.	331.45	327.40	340.90	(-3.70%)	Apr 22, 13:53	500	0	1587543804772
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	350.25	337.15	360.00	(-1.41%)	Apr 22, 14:07	500	0	1587544637477
+Cadila Healthcare Ltd.	331.05	327.40	340.90	(-3.82%)	Apr 22, 14:07	500	0	1587544645960
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	604.80	585.25	613.95	(-0.44%)	Apr 22, 14:10	500	1	1587544812799
+Eicher Motors Ltd.	13701.50	13200.00	13944.95	(1.53%)	Apr 22, 14:10	500	1	1587544821297
+Bharat Petroleum Corporation Ltd.	350.35	337.15	360.00	(-1.38%)	Apr 22, 14:10	500	0	1587544829648
+Cadila Healthcare Ltd.	331.20	327.40	340.90	(-3.78%)	Apr 22, 14:10	500	0	1587544835429
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	350.05	337.15	360.00	(-1.46%)	Apr 22, 14:11	500	0	1587544871990
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 14:11	500	0	1587544880985
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	604.00	585.25	613.95	(-0.57%)	Apr 22, 14:13	500	1	1587544990927
+Eicher Motors Ltd.	13697.50	13200.00	13944.95	(1.50%)	Apr 22, 14:13	500	1	1587544999153
+Bharat Petroleum Corporation Ltd.	350.50	337.15	360.00	(-1.34%)	Apr 22, 14:13	500	0	1587545005260
+Cadila Healthcare Ltd.	331.70	327.40	340.90	(-3.63%)	Apr 22, 14:13	500	0	1587545013761
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	604.40	585.25	613.95	(-0.50%)	Apr 22, 14:14	500	1	1587545050996
+Eicher Motors Ltd.	13696.05	13200.00	13944.95	(1.49%)	Apr 22, 14:14	500	1	1587545056676
+Bharat Petroleum Corporation Ltd.	350.20	337.15	360.00	(-1.42%)	Apr 22, 14:14	500	0	1587545066341
+Cadila Healthcare Ltd.	332.45	327.40	340.90	(-3.41%)	Apr 22, 14:14	500	0	1587545074587
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	604.85	585.25	613.95	(-0.43%)	Apr 22, 14:16	500	1	1587545171560
+Eicher Motors Ltd.	13696.20	13200.00	13944.95	(1.49%)	Apr 22, 14:16	500	1	1587545179487
+Bharat Petroleum Corporation Ltd.	350.45	337.15	360.00	(-1.35%)	Apr 22, 14:16	500	0	1587545189101
+Cadila Healthcare Ltd.	331.85	327.40	340.90	(-3.59%)	Apr 22, 14:16	500	0	1587545196418
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	605.05	585.25	613.95	(-0.40%)	Apr 22, 14:18	500	1	1587545292937
+Eicher Motors Ltd.	13692.35	13200.00	13944.95	(1.46%)	Apr 22, 14:18	500	1	1587545302580
+Bharat Petroleum Corporation Ltd.	350.60	337.15	360.00	(-1.31%)	Apr 22, 14:18	500	0	1587545310457
+Cadila Healthcare Ltd.	331.35	327.40	340.90	(-3.73%)	Apr 22, 14:18	500	0	1587545316059
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:50	500	0	1587550842772
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:51	500	0	1587550934082
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:53	500	0	1587551014696
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:53	500	0	1587551029564
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	605.00	585.25	613.95	(-0.40%)	Apr 22, 15:59	500	1	1587551505410
+Eicher Motors Ltd.	13703.30	13200.00	13944.95	(1.54%)	Apr 22, 15:57	500	1	1587551527471
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587551547375
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587551561196
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	605.00	585.25	613.95	(-0.40%)	Apr 22, 15:59	500	1	1587551557667
+Eicher Motors Ltd.	13703.30	13200.00	13944.95	(1.54%)	Apr 22, 15:57	500	1	1587551577422
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587551588902
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587551597745
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587551678473
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587551695220
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	605.00	585.25	613.95	(-0.40%)	Apr 22, 15:59	500	1	1587551665584
+Eicher Motors Ltd.	13703.30	13200.00	13944.95	(1.54%)	Apr 22, 15:57	500	1	1587551701898
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587551736296
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587551769385
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587551821649
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587551867389
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587551845837
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587551882797
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587551908769
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587551954196
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587551974564
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587552000878
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587551997637
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587552007705
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587552022656
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587552033244
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587552079508
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587552091433
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	605.00	585.25	613.95	(-0.40%)	Apr 22, 15:59	500	1	1587552436614
+Eicher Motors Ltd.	13703.30	13200.00	13944.95	(1.54%)	Apr 22, 15:57	500	1	1587552466334
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587552499427
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587552519937
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	605.00	585.25	613.95	(-0.40%)	Apr 22, 15:59	500	1	1587552566187
+Eicher Motors Ltd.	13703.30	13200.00	13944.95	(1.54%)	Apr 22, 15:57	500	1	1587552600155
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587552626119
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587552649557
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587552675977
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587552718051
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	605.00	585.25	613.95	(-0.40%)	Apr 22, 15:59	500	1	1587553234453
+Eicher Motors Ltd.	13703.30	13200.00	13944.95	(1.54%)	Apr 22, 15:57	500	1	1587553283425
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587553313540
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587553335899
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587554138093
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587554150301
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587555016155
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587555024358
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587555918755
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587555930860
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+CESC Ltd.	605.00	585.25	613.95	(-0.40%)	Apr 22, 15:59	500	1	1587558624874
+Eicher Motors Ltd.	13703.30	13200.00	13944.95	(1.54%)	Apr 22, 15:57	500	1	1587558634369
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587558645354
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587558652787
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587559529307
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587559540589
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587560425267
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587560435589
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587561327184
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587561337483
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587569374091
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587569387843
+Stock	Price	TodaysLow	TodaysHigh	Change(%)	Captured On	Target Price(Rs)	Matched	Timestamp
+Bharat Petroleum Corporation Ltd.	356.70	337.15	360.00	(0.41%)	Apr 22, 15:59	500	0	1587571245172
+Cadila Healthcare Ltd.	331.40	327.40	340.90	(-3.72%)	Apr 22, 15:59	500	0	1587571262715

@@ -1,0 +1,32 @@
+{
+  "name": "stock-scraper",
+  "version": "1.0.0",
+  "description": "Provides alert on timely basis based on excel data",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js --ignore data/*.json ",
+    "import:data": "node importjson.js"
+  },
+  "author": "Souvik Datta",
+  "license": "MIT",
+  "dependencies": {
+    "cron": "^1.8.2",
+    "dotenv": "^8.2.0",
+    "exceljs": "^3.8.2",
+    "moment": "^2.24.0",
+    "nodemailer": "^6.4.6",
+    "puppeteer": "^2.1.1"
+  },
+  "devDependencies": {
+    "eslint": "^5.16.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-config-prettier": "^4.1.0",
+    "eslint-plugin-import": "^2.17.2",
+    "eslint-plugin-jsx-a11y": "^6.2.1",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-prettier": "^3.0.1",
+    "eslint-plugin-react": "^7.12.4",
+    "prettier": "^1.17.0"
+  }
+}
