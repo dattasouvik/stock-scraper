@@ -1,4 +1,4 @@
-#Stock Monitor Application
+##Stock Monitor Application
 
 1.Reads Data from stocks.xlsx file 
 2.Used Puppeteer.js for headless Chrome navigation
