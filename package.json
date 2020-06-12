@@ -4,7 +4,7 @@
   "description": "Provides alert on timely basis based on excel data",
   "main": "app.js",
   "scripts": {
-    "start": "node app.js",
+    "start": "node importjson.js && node app.js",
     "dev": "nodemon app.js --ignore data/*.json ",
     "import:data": "node importjson.js"
   },
@@ -28,5 +28,8 @@
     "eslint-plugin-prettier": "^3.0.1",
     "eslint-plugin-react": "^7.12.4",
     "prettier": "^1.17.0"
+  },
+  "engines": {
+    "node": ">=10.0.0"
   }
 }

@@ -36,7 +36,7 @@ const mailHandler = catchAsync((stockEl)=>{
 		</tbody>
 	</table>`;
 	return sendEmail({
-		email: 'souvik2vt@gmail.com',
+		email: process.env.RECIPIENT_EMAIL,
 		subject: `${stock} has reached the target Rs.${target} 😁`,
 		message
 	});
@@ -62,7 +62,7 @@ module.exports.monitorStocks = (stockListJsonFile,mailTrackerFile ) =>{
 			resolve(appendedData);
 		})
 		.catch((err) => {
-			console.log("Error", err);
+			// console.log("Error", err);
 			reject("Error in Stock Monitoring");
 		}); 
 	});
@@ -98,7 +98,7 @@ module.exports.notifyMail = (filename) => {
 			}
 		})
 		.catch(err => {
-			console.log("Error", err);
+			// console.log("Error", err);
 			reject("Error in Email Notifiacation 😈");
 		});
 	});
