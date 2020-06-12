@@ -3,6 +3,7 @@
 ## Steps to Install
 
 1.  Add ID,URL,Target(Rs) fields in stocks.xlsx
+    For Ex: 1,https://www.moneycontrol.com/india/stockpricequote/refineries/relianceindustries/RI,2000
 ------------------
 2.  npm install
 ------------------
@@ -20,4 +21,6 @@
 
 
 ## *Note :- 
+  This Script scrapes data from <b>https://www.moneycontrol.com/</b> website and is only for educational purpose & should not be misused by   any means.
   This Application is not yet optimised for production.It is developed for POC only.
+  
