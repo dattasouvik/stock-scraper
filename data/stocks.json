@@ -1,12 +1,1 @@
-[
-    {
-        "id": 3,
-        "url": "https://www.moneycontrol.com/india/stockpricequote/refineries/bharatpetroleumcorporation/BPC",
-        "target": 500
-    },
-    {
-        "id": 4,
-        "url": "https://www.moneycontrol.com/india/stockpricequote/pharmaceuticals/cadilahealthcare/CHC",
-        "target": 500
-    }
-]
+[{"id":2,"url":"https://www.moneycontrol.com/india/stockpricequote/auto-lcvshcvs/eichermotors/EM","target":50000}]

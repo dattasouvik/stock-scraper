@@ -1,6 +1,18 @@
-##Stock Monitor Application
+## Stock Monitor Application
 
-1.Reads Data from stocks.xlsx file 
-2.Used Puppeteer.js for headless Chrome navigation
-3.Maintain  all stocks tracking in stockTracker.xls
-4.Use Nodemailer.js for email sending purpose.
+## Steps to Install
+1.Add ID,URL,Target(Rs) fields in stocks.xlsx
+------------------
+2.npm install
+------------------
+3.mpm start
+
+## Features
+1.Notify User by Email based on target set by User
+--------------
+2.Updates with real time data with very little latency
+---------------
+3.Maintain  all stocks tracking in stockTracker.xls for reference
+
+
+## *Note :- This Application is not yet optimised for production.It is developed for POC only.
